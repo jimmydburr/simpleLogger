@@ -1,0 +1,13 @@
+# SimpleLogger
+
+## A Ham Radio Logging Program written in FileMaker
+
+SimpleLogger is just that, a simple ham radio logging program written strictly for my own use, but if it works for you.. all the better.
+
+Here are a few of the design criteria I used in writing the program.
+
+*	do call sign lookups via my paid account at QRZ.com
+*	automatic mode, band and frequency retrieval from my rig (TenTec Pegasus)
+*	export contacts to an adi file format spec suitable for upload to ARRL's Logbook of the World and eQSL.cc
+
+Provisions are made to work a couple of contests, specifically ARRL Sweepstakes and ARRL DX.
